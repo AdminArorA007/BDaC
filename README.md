@@ -10,10 +10,10 @@ A fast, clutter-free, **2-file PHP application** (`index.php` + `api.php`) to ch
 ## Screenshots
 
 ### Bulk Keyword & TLD Expansion (25 Domains in ~4.9s)
-![Bulk Results](screenshots/fun1.jpg)
+![Bulk Results](ScreenShot-1.jpg)
 
 ### Real-Time RDAP & DNS Results
-![Detailed Results](screenshots/fun2.jpg)
+![Detailed Results](ScreenShot-2.jpg)
 
 ---
 
